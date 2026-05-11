@@ -1,0 +1,229 @@
+=== simulacion: 50 alumnos, 4 torniquetes, aforo max=20 ===
+[13:10:09.152] alumno=28             llega a la cola
+[13:10:09.152] alumno=28  torniquete=1  escanea credencial  (aforo=0)
+[13:10:09.152] alumno=28  torniquete=1  ENTRA al campus  (aforo=1)
+[13:10:09.152] alumno=38             llega a la cola
+[13:10:09.152] alumno=38  torniquete=3  escanea credencial  (aforo=1)
+[13:10:09.152] alumno=38  torniquete=3  ENTRA al campus  (aforo=2)
+[13:10:09.155] alumno=9              llega a la cola
+[13:10:09.155] alumno=9   torniquete=2  escanea credencial  (aforo=2)
+[13:10:09.155] alumno=9   torniquete=2  ENTRA al campus  (aforo=3)
+[13:10:09.157] alumno=10             llega a la cola
+[13:10:09.157] alumno=10  torniquete=3  escanea credencial  (aforo=3)
+[13:10:09.157] alumno=10  torniquete=3  ENTRA al campus  (aforo=4)
+[13:10:09.163] alumno=50             llega a la cola
+[13:10:09.163] alumno=50  torniquete=3  escanea credencial  (aforo=4)
+[13:10:09.163] alumno=50  torniquete=3  ENTRA al campus  (aforo=5)
+[13:10:09.165] alumno=36             llega a la cola
+[13:10:09.165] alumno=36  torniquete=1  escanea credencial  (aforo=5)
+[13:10:09.165] alumno=36  torniquete=1  ENTRA al campus  (aforo=6)
+[13:10:09.166] alumno=7              llega a la cola
+[13:10:09.167] alumno=7   torniquete=4  escanea credencial  (aforo=6)
+[13:10:09.167] alumno=7   torniquete=4  ENTRA al campus  (aforo=7)
+[13:10:09.173] alumno=15             llega a la cola
+[13:10:09.173] alumno=15  torniquete=4  escanea credencial  (aforo=7)
+[13:10:09.173] alumno=15  torniquete=4  ENTRA al campus  (aforo=8)
+[13:10:09.178] alumno=22             llega a la cola
+[13:10:09.178] alumno=22  torniquete=3  escanea credencial  (aforo=8)
+[13:10:09.178] alumno=22  torniquete=3  ENTRA al campus  (aforo=9)
+[13:10:09.183] alumno=3              llega a la cola
+[13:10:09.183] alumno=3   torniquete=4  escanea credencial  (aforo=9)
+[13:10:09.183] alumno=3   torniquete=4  ENTRA al campus  (aforo=10)
+[13:10:09.184] alumno=11             llega a la cola
+[13:10:09.184] alumno=11  torniquete=4  escanea credencial  (aforo=10)
+[13:10:09.184] alumno=11  torniquete=4  ENTRA al campus  (aforo=11)
+[13:10:09.192] alumno=47             llega a la cola
+[13:10:09.192] alumno=47  torniquete=4  escanea credencial  (aforo=11)
+[13:10:09.192] alumno=47  torniquete=4  ENTRA al campus  (aforo=12)
+[13:10:09.194] alumno=31             llega a la cola
+[13:10:09.194] alumno=31  torniquete=4  escanea credencial  (aforo=12)
+[13:10:09.194] alumno=31  torniquete=4  ENTRA al campus  (aforo=13)
+[13:10:09.195] alumno=12             llega a la cola
+[13:10:09.195] alumno=12  torniquete=1  escanea credencial  (aforo=13)
+[13:10:09.195] alumno=12  torniquete=1  ENTRA al campus  (aforo=14)
+[13:10:09.200] alumno=24             llega a la cola
+[13:10:09.200] alumno=24  torniquete=1  escanea credencial  (aforo=14)
+[13:10:09.200] alumno=24  torniquete=1  ENTRA al campus  (aforo=15)
+[13:10:09.202] alumno=33             llega a la cola
+[13:10:09.202] alumno=33  torniquete=2  escanea credencial  (aforo=15)
+[13:10:09.202] alumno=33  torniquete=2  ENTRA al campus  (aforo=16)
+[13:10:09.203] alumno=49             llega a la cola
+[13:10:09.203] alumno=49  torniquete=2  escanea credencial  (aforo=16)
+[13:10:09.203] alumno=49  torniquete=2  ENTRA al campus  (aforo=17)
+[13:10:09.217] alumno=45             llega a la cola
+[13:10:09.217] alumno=45  torniquete=2  escanea credencial  (aforo=17)
+[13:10:09.217] alumno=45  torniquete=2  ENTRA al campus  (aforo=18)
+[13:10:09.219] alumno=44             llega a la cola
+[13:10:09.219] alumno=44  torniquete=1  escanea credencial  (aforo=18)
+[13:10:09.219] alumno=44  torniquete=1  ENTRA al campus  (aforo=19)
+[13:10:09.227] alumno=34             llega a la cola
+[13:10:09.227] alumno=34  torniquete=3  escanea credencial  (aforo=19)
+[13:10:09.227] alumno=34  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.227] alumno=6              llega a la cola
+[13:10:09.227] alumno=6   torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.227] alumno=6   torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.231] alumno=28  torniquete=1  sale del campus  (aforo=19)
+[13:10:09.231] alumno=6   torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.240] alumno=4              llega a la cola
+[13:10:09.240] alumno=4   torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.240] alumno=4   torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.243] alumno=10  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.243] alumno=4   torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.250] alumno=30             llega a la cola
+[13:10:09.250] alumno=30  torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.250] alumno=30  torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.256] alumno=37             llega a la cola
+[13:10:09.256] alumno=37  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.256] alumno=37  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.259] alumno=33  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.259] alumno=30  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.260] alumno=38  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.260] alumno=37  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.261] alumno=15  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.261] alumno=40             llega a la cola
+[13:10:09.261] alumno=40  torniquete=1  escanea credencial  (aforo=19)
+[13:10:09.261] alumno=40  torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.266] alumno=31  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.272] alumno=11  torniquete=4  sale del campus  (aforo=18)
+[13:10:09.274] alumno=17             llega a la cola
+[13:10:09.274] alumno=17  torniquete=2  escanea credencial  (aforo=18)
+[13:10:09.274] alumno=17  torniquete=2  ENTRA al campus  (aforo=19)
+[13:10:09.275] alumno=18             llega a la cola
+[13:10:09.275] alumno=18  torniquete=3  escanea credencial  (aforo=19)
+[13:10:09.275] alumno=18  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.277] alumno=27             llega a la cola
+[13:10:09.277] alumno=27  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.277] alumno=27  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.277] alumno=42             llega a la cola
+[13:10:09.277] alumno=42  torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.277] alumno=42  torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.279] alumno=46             llega a la cola
+[13:10:09.279] alumno=46  torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.279] alumno=46  torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.284] alumno=12  torniquete=1  sale del campus  (aforo=19)
+[13:10:09.284] alumno=27  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.289] alumno=20             llega a la cola
+[13:10:09.289] alumno=20  torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.289] alumno=20  torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.290] alumno=14             llega a la cola
+[13:10:09.290] alumno=14  torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.290] alumno=14  torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.292] alumno=39             llega a la cola
+[13:10:09.294] alumno=32             llega a la cola
+[13:10:09.295] alumno=6   torniquete=3  sale del campus  (aforo=19)
+[13:10:09.295] alumno=42  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.295] alumno=39  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.295] alumno=39  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.296] alumno=9   torniquete=2  sale del campus  (aforo=19)
+[13:10:09.296] alumno=46  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.296] alumno=32  torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.296] alumno=32  torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.299] alumno=26             llega a la cola
+[13:10:09.301] alumno=7   torniquete=4  sale del campus  (aforo=19)
+[13:10:09.301] alumno=20  torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.301] alumno=26  torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.301] alumno=26  torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.302] alumno=1              llega a la cola
+[13:10:09.302] alumno=2              llega a la cola
+[13:10:09.305] alumno=23             llega a la cola
+[13:10:09.305] alumno=22  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.305] alumno=14  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.305] alumno=1   torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.305] alumno=1   torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.305] alumno=43             llega a la cola
+[13:10:09.307] alumno=13             llega a la cola
+[13:10:09.307] alumno=21             llega a la cola
+[13:10:09.310] alumno=3   torniquete=4  sale del campus  (aforo=19)
+[13:10:09.310] alumno=39  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.311] alumno=2   torniquete=3  escanea credencial  (aforo=20)
+[13:10:09.311] alumno=2   torniquete=3  espera (aforo lleno)  (aforo=20)
+[13:10:09.311] alumno=41             llega a la cola
+[13:10:09.312] alumno=5              llega a la cola
+[13:10:09.314] alumno=4   torniquete=1  sale del campus  (aforo=19)
+[13:10:09.314] alumno=32  torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.314] alumno=23  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.314] alumno=23  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.322] alumno=19             llega a la cola
+[13:10:09.323] alumno=50  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.323] alumno=26  torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.323] alumno=43  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.323] alumno=43  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.324] alumno=16             llega a la cola
+[13:10:09.326] alumno=8              llega a la cola
+[13:10:09.326] alumno=34  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.326] alumno=1   torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.326] alumno=13  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.326] alumno=13  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.330] alumno=37  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.330] alumno=2   torniquete=3  ENTRA al campus  (aforo=20)
+[13:10:09.330] alumno=21  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.330] alumno=21  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.330] alumno=44  torniquete=1  sale del campus  (aforo=19)
+[13:10:09.330] alumno=23  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.330] alumno=41  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.330] alumno=41  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.334] alumno=25             llega a la cola
+[13:10:09.336] alumno=35             llega a la cola
+[13:10:09.339] alumno=36  torniquete=1  sale del campus  (aforo=19)
+[13:10:09.339] alumno=43  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.339] alumno=5   torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.339] alumno=5   torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.340] alumno=48             llega a la cola
+[13:10:09.342] alumno=29             llega a la cola
+[13:10:09.349] alumno=24  torniquete=1  sale del campus  (aforo=19)
+[13:10:09.349] alumno=13  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.349] alumno=19  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.349] alumno=19  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.358] alumno=49  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.358] alumno=21  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.358] alumno=16  torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.358] alumno=16  torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.362] alumno=47  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.362] alumno=41  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.362] alumno=8   torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.362] alumno=8   torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.364] alumno=27  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.364] alumno=5   torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.364] alumno=25  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.364] alumno=25  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.367] alumno=17  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.367] alumno=19  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.367] alumno=35  torniquete=4  escanea credencial  (aforo=20)
+[13:10:09.367] alumno=35  torniquete=4  espera (aforo lleno)  (aforo=20)
+[13:10:09.371] alumno=14  torniquete=3  sale del campus  (aforo=19)
+[13:10:09.371] alumno=16  torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.371] alumno=48  torniquete=1  escanea credencial  (aforo=20)
+[13:10:09.371] alumno=48  torniquete=1  espera (aforo lleno)  (aforo=20)
+[13:10:09.371] alumno=45  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.371] alumno=8   torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.371] alumno=29  torniquete=2  escanea credencial  (aforo=20)
+[13:10:09.371] alumno=29  torniquete=2  espera (aforo lleno)  (aforo=20)
+[13:10:09.400] alumno=40  torniquete=1  sale del campus  (aforo=20)
+[13:10:09.400] alumno=25  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.413] alumno=41  torniquete=2  sale del campus  (aforo=19)
+[13:10:09.413] alumno=35  torniquete=4  ENTRA al campus  (aforo=20)
+[13:10:09.419] alumno=23  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.419] alumno=48  torniquete=1  ENTRA al campus  (aforo=20)
+[13:10:09.424] alumno=39  torniquete=4  sale del campus  (aforo=19)
+[13:10:09.424] alumno=29  torniquete=2  ENTRA al campus  (aforo=20)
+[13:10:09.424] alumno=5   torniquete=2  sale del campus  (aforo=19)
+[13:10:09.425] alumno=18  torniquete=3  sale del campus  (aforo=18)
+[13:10:09.425] alumno=26  torniquete=3  sale del campus  (aforo=17)
+[13:10:09.430] alumno=42  torniquete=3  sale del campus  (aforo=16)
+[13:10:09.434] alumno=30  torniquete=3  sale del campus  (aforo=15)
+[13:10:09.439] alumno=13  torniquete=2  sale del campus  (aforo=14)
+[13:10:09.441] alumno=2   torniquete=3  sale del campus  (aforo=13)
+[13:10:09.445] alumno=20  torniquete=1  sale del campus  (aforo=12)
+[13:10:09.448] alumno=46  torniquete=3  sale del campus  (aforo=11)
+[13:10:09.451] alumno=32  torniquete=1  sale del campus  (aforo=10)
+[13:10:09.451] alumno=1   torniquete=2  sale del campus  (aforo=9)
+[13:10:09.498] alumno=25  torniquete=2  sale del campus  (aforo=8)
+[13:10:09.502] alumno=43  torniquete=4  sale del campus  (aforo=7)
+[13:10:09.511] alumno=35  torniquete=4  sale del campus  (aforo=6)
+[13:10:09.514] alumno=16  torniquete=1  sale del campus  (aforo=5)
+[13:10:09.524] alumno=21  torniquete=2  sale del campus  (aforo=4)
+[13:10:09.530] alumno=8   torniquete=1  sale del campus  (aforo=3)
+[13:10:09.556] alumno=19  torniquete=4  sale del campus  (aforo=2)
+[13:10:09.583] alumno=29  torniquete=2  sale del campus  (aforo=1)
+[13:10:09.585] alumno=48  torniquete=1  sale del campus  (aforo=0)
+=== fin: 50 alumnos procesados en 0.435 s ===

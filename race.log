@@ -1,0 +1,3 @@
+hilos=8  incrementos=1000000  esperado=8000000
+sin_mutex=1587854  perdidos=6412146  t=0.071s
+con_mutex=8000000  perdidos=0  t=0.221s

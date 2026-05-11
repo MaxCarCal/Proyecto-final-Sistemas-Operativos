@@ -1,0 +1,21 @@
+== Demo de race condition (modulo 2) ==
+Configuracion: 8 hilos, 1,000,000 incrementos cada uno
+Resultado esperado: 8,000,000
+
+Corrida 1:
+  sin mutex: 2,458,813   perdidos: 5,541,187   tiempo: 0.022 s
+  con mutex: 8,000,000   perdidos: 0           tiempo: 0.171 s
+
+Corrida 2:
+  sin mutex: 6,219,982   perdidos: 1,780,018   tiempo: 0.022 s
+  con mutex: 8,000,000   perdidos: 0           tiempo: 0.164 s
+
+Observaciones:
+- Sin sincronizacion el resultado varia en cada ejecucion (no determinista).
+- Con mutex el resultado siempre es exacto.
+- El mutex agrega overhead (~7x mas lento) pero garantiza correccion.
+
+== Stress test escaner (modulo 1) ==
+Configuracion: 200 alumnos, 4 torniquetes, aforo max 30
+Resultado: 200 alumnos procesados en 0.980 s
+Log: 972 lineas, sin corrupcion (200 ENTRA = 200 sale)
